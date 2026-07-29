@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Revolução Feminina nas Olimpíadas | Data Storytelling</title>
+  <meta name="description" content="Visualização de dados e storytelling sobre a evolução e impacto da participação feminina nos Jogos Olímpicos de 1896 a 2016.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- CSS Styles -->
+  <link rel="stylesheet" href="./styles/main.css">
+  <link rel="stylesheet" href="./styles/timeline.css">
+  <link rel="stylesheet" href="./styles/map.css">
+  <link rel="stylesheet" href="./styles/components.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <a href="#hero" class="nav-brand">
+      <i data-lucide="flame"></i>
+      <span>MULHERES OLÍMPICAS</span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="#timeline" class="active"><i data-lucide="clock"></i> Linha do Tempo</a></li>
+      <li><a href="#geopolitics"><i data-lucide="globe"></i> Mapa Global</a></li>
+      <li><a href="#comparator"><i data-lucide="columns"></i> Comparador</a></li>
+      <li><a href="#biometrics"><i data-lucide="activity"></i> Biometria</a></li>
+      <li><a href="#hall-of-fame"><i data-lucide="award"></i> Hall da Fama</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+  <section id="hero" class="hero-section">
+    <canvas id="heroCanvas"></canvas>
+    <div class="hero-content">
+      <div class="badge-glow">
+        <i data-lucide="sparkles"></i> Data Storytelling Olímpico
+      </div>
+      <h1 class="hero-title">Passos de Gigante: A Revolução Feminina nos Jogos Olímpicos</h1>
+      <p class="hero-subtitle">
+        De 0% em Atenas 1896 até a paridade em Tóquio. Explore como as mulheres superaram proibições, quebraram recordes e transformaram o desempenho das nações no maior palco do planeta.
+      </p>
+
+      <div class="hero-kpis">
+        <div class="glass-panel kpi-card">
+          <div class="kpi-number">23 → 5.000+</div>
+          <div class="kpi-label">Atletas Femininas (1900 vs Atualmente)</div>
+        </div>
+        <div class="glass-panel kpi-card">
+          <div class="kpi-number">66.1%</div>
+          <div class="kpi-label">Das Medalhas da China São de Mulheres</div>
+        </div>
+        <div class="glass-panel kpi-card">
+          <div class="kpi-number">18</div>
+          <div class="kpi-label">Medalhas de Larisa Latynina (Recorde)</div>
+        </div>
+      </div>
+
+      <a href="#timeline" class="cta-button">
+        Explorar Storytelling <i data-lucide="arrow-down"></i>
+      </a>
+    </div>
+  </section>
+
+  <!-- Section 1: Interactive Timeline -->
+  <section id="timeline" class="section-container">
+    <div class="section-header">
+      <span class="section-tag">A Trajetória da Paridade</span>
+      <h2 class="section-title">Evolução Histórica da Participação</h2>
+      <p class="section-description">
+        Acompanhe o crescimento da presença feminina nos Jogos Olímpicos de Verão ao longo de 120 anos de história.
+      </p>
+    </div>
+
+    <!-- Timeline Chart & Controls -->
+    <div class="glass-panel chart-container-wrapper">
+      <div class="chart-header">
+        <h3 class="chart-title">Crescimento de Atletas e Modalidades</h3>
+        <div class="timeline-controls">
+          <button class="toggle-btn active" data-mode="ratio"><i data-lucide="percent"></i> Proporção (%)</button>
+          <button class="toggle-btn" data-mode="athletes"><i data-lucide="users"></i> Qtd. Atletas</button>
+          <button class="toggle-btn" data-mode="sports"><i data-lucide="trophy"></i> Modalidades</button>
+        </div>
+      </div>
+      <div style="position: relative; height: 350px; width: 100%;">
+        <canvas id="timelineChart"></canvas>
+      </div>
+    </div>
+
+    <!-- Milestone Cards Stepper -->
+    <h3 style="font-family: var(--font-heading); font-size: 1.5rem; margin-top: 3rem; text-align: center;">Marcos Históricos da Conquista Feminina</h3>
+    <div class="milestones-stepper" id="milestonesContainer">
+      <!-- Injected via JavaScript -->
+    </div>
+  </section>
+
+  <!-- Section 2: Global Map & Geopolitics -->
+  <section id="geopolitics" class="section-container">
+    <div class="section-header">
+      <span class="section-tag">Geopolítica do Esporte</span>
+      <h2 class="section-title">Mapa Global do Impacto Feminino</h2>
+      <p class="section-description">
+        Descubra como a força das mulheres impulsiona o quadro geral de medalhas e transforma o esporte nos diferentes países do mundo.
+      </p>
+    </div>
+
+    <div class="map-layout">
+      <!-- Map SVG Wrapper -->
+      <div class="glass-panel map-wrapper">
+        <svg id="worldMapSvg"></svg>
+        <div id="mapTooltip" class="map-tooltip"></div>
+        <div class="map-legend">
+          <div class="legend-item"><div class="legend-color" style="background: #F59E0B;"></div> >50% Medalhas por Mulheres</div>
+          <div class="legend-item"><div class="legend-color" style="background: #EC4899;"></div> 35-50% Medalhas</div>
+          <div class="legend-item"><div class="legend-color" style="background: #8B5CF6;"></div> 20-35% Medalhas</div>
+          <div class="legend-item"><div class="legend-color" style="background: #3B82F6;"></div> <20% Medalhas</div>
+        </div>
+      </div>
+
+      <!-- Side Country Detail Panel -->
+      <div class="glass-panel country-detail-panel" id="countryDetailPanel">
+        <!-- Injected via JavaScript -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 3: Country Side-by-Side Comparator -->
+  <section id="comparator" class="section-container">
+    <div class="section-header">
+      <span class="section-tag">Análise Comparativa</span>
+      <h2 class="section-title">Comparador de Países Lado a Lado</h2>
+      <p class="section-description">
+        Selecione duas nações e compare o impacto e o desempenho das suas equipes femininas nas Olimpíadas.
+      </p>
+    </div>
+
+    <div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
+      <div class="country-select-wrapper" style="flex: 1; max-width: 350px;">
+        <label for="countrySelectA">País 1</label>
+        <select id="countrySelectA" class="custom-select"></select>
+      </div>
+      <div class="country-select-wrapper" style="flex: 1; max-width: 350px;">
+        <label for="countrySelectB">País 2</label>
+        <select id="countrySelectB" class="custom-select"></select>
+      </div>
+    </div>
+
+    <div id="comparatorResults">
+      <!-- Injected via JavaScript -->
+    </div>
+  </section>
+
+  <!-- Section 4: Biometrics & Physical Evolution -->
+  <section id="biometrics" class="section-container">
+    <div class="section-header">
+      <span class="section-tag">Evolução Físico-Performance</span>
+      <h2 class="section-title">A Biometria da Atleta ao Longo das Décadas</h2>
+      <p class="section-description">
+        Como a idade média, altura e peso das atletas femininas se transformaram com o profissionalismo e a ciência do esporte.
+      </p>
+    </div>
+
+    <div class="biometrics-layout">
+      <div class="glass-panel bio-card-info">
+        <h3 style="font-family: var(--font-heading); font-size: 1.4rem;">Perfil Físico Médio</h3>
+        <p style="color: var(--text-muted); font-size: 0.95rem; margin-top: 0.5rem;">
+          Nas primeiras décadas do século XX, a idade média era de aproximadamente 34 anos. A partir dos anos 1970, com a popularização da ginástica artística e natação juvenil, a idade média caiu para 20.8 anos, voltando a subir para 25.4 anos nos dias atuais com a longevidade dos treinos.
+        </p>
+
+        <div class="bio-highlight">169 cm / 61.7 kg</div>
+        <div style="color: var(--text-muted); font-weight: 600; font-size: 0.9rem;">Média da Atleta Olímpica na Década de 2010</div>
+      </div>
+
+      <div class="glass-panel" style="padding: 2rem; min-height: 380px;">
+        <canvas id="biometricsChart"></canvas>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 5: Hall of Fame / Athlete Legends -->
+  <section id="hall-of-fame" class="section-container">
+    <div class="section-header">
+      <span class="section-tag">Galeria de Notáveis</span>
+      <h2 class="section-title">Hall da Fama: Lendas Olímpicas</h2>
+      <p class="section-description">
+        Conheça as atletas mais vitoriosas da história dos Jogos Olímpicos e suas marcas inesquecíveis.
+      </p>
+    </div>
+
+    <div class="filter-bar">
+      <div class="search-box">
+        <i data-lucide="search" class="search-icon"></i>
+        <input type="text" id="athleteSearchInput" class="search-input" placeholder="Buscar por nome de atleta, país ou modalidade...">
+      </div>
+    </div>
+
+    <div class="hall-grid" id="hallGrid">
+      <!-- Injected via JavaScript -->
+    </div>
+  </section>
+
+  <!-- Modal Popup -->
+  <div class="modal-overlay" id="athleteModal">
+    <div class="glass-panel modal-content">
+      <button class="modal-close" id="modalCloseBtn">&times;</button>
+      <div id="modalBody">
+        <!-- Injected via JavaScript -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>⚡ Desenvolvido para a Análise e Storytelling da Participação Feminina nos Jogos Olímpicos</p>
+    <p>Dados extraídos de <code>athlete_events.csv</code> e <code>noc_regions.csv</code> (1896 - 2016)</p>
+  </footer>
+
+  <!-- App Script (ES Module) -->
+  <script type="module" src="./scripts/app.js"></script>
+  <script>
+    // Initialize Lucide Icons after DOM load
+    document.addEventListener('DOMContentLoaded', () => {
+      if (window.lucide) {
+        window.lucide.createIcons();
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,2637 @@
+{
+  "editionsList": [
+    {
+      "edition": "1896 Summer",
+      "year": 1896,
+      "season": "Summer",
+      "city": "Athina",
+      "fAthletesCount": 0,
+      "mAthletesCount": 176,
+      "totalAthletes": 176,
+      "fRatioPct": 0,
+      "fSportsCount": 0,
+      "mSportsCount": 9,
+      "fEventsCount": 0,
+      "mEventsCount": 43,
+      "fNocsCount": 0,
+      "mNocsCount": 12,
+      "fMedalsTotal": 0,
+      "mMedalsTotal": 143,
+      "milestone": {
+        "title": "Proibição Total",
+        "description": "Em Atenas 1896, Pierre de Coubertin proibiu a participação de mulheres, afirmando que a presença feminina seria 'imprópria e anti-estética'."
+      }
+    },
+    {
+      "edition": "1900 Summer",
+      "year": 1900,
+      "season": "Summer",
+      "city": "Paris",
+      "fAthletesCount": 23,
+      "mAthletesCount": 1201,
+      "totalAthletes": 1224,
+      "fRatioPct": 1.88,
+      "fSportsCount": 5,
+      "mSportsCount": 20,
+      "fEventsCount": 8,
+      "mEventsCount": 88,
+      "fNocsCount": 6,
+      "mNocsCount": 31,
+      "fMedalsTotal": 13,
+      "mMedalsTotal": 591,
+      "milestone": {
+        "title": "Primeiras Mulheres na História",
+        "description": "Em Paris 1900, 23 mulheres participaram (1,8% do total) em 5 modalidades (Tênis, Golfe, Vela, Croquet, Hípica). Hélène de Pourtalès (Vela) torna-se a 1ª mulher campeã olímpica."
+      }
+    },
+    {
+      "edition": "1904 Summer",
+      "year": 1904,
+      "season": "Summer",
+      "city": "St. Louis",
+      "fAthletesCount": 6,
+      "mAthletesCount": 644,
+      "totalAthletes": 650,
+      "fRatioPct": 0.92,
+      "fSportsCount": 1,
+      "mSportsCount": 18,
+      "fEventsCount": 3,
+      "mEventsCount": 92,
+      "fNocsCount": 1,
+      "mNocsCount": 15,
+      "fMedalsTotal": 10,
+      "mMedalsTotal": 476,
+      "milestone": null
+    },
+    {
+      "edition": "1906 Summer",
+      "year": 1906,
+      "season": "Summer",
+      "city": "Athina",
+      "fAthletesCount": 6,
+      "mAthletesCount": 835,
+      "totalAthletes": 841,
+      "fRatioPct": 0.71,
+      "fSportsCount": 1,
+      "mSportsCount": 13,
+      "fEventsCount": 2,
+      "mEventsCount": 73,
+      "fNocsCount": 2,
+      "mNocsCount": 21,
+      "fMedalsTotal": 6,
+      "mMedalsTotal": 452,
+      "milestone": null
+    },
+    {
+      "edition": "1908 Summer",
+      "year": 1908,
+      "season": "Summer",
+      "city": "London",
+      "fAthletesCount": 44,
+      "mAthletesCount": 1980,
+      "totalAthletes": 2024,
+      "fRatioPct": 2.17,
+      "fSportsCount": 5,
+      "mSportsCount": 24,
+      "fEventsCount": 7,
+      "mEventsCount": 105,
+      "fNocsCount": 3,
+      "mNocsCount": 22,
+      "fMedalsTotal": 16,
+      "mMedalsTotal": 815,
+      "milestone": null
+    },
+    {
+      "edition": "1912 Summer",
+      "year": 1912,
+      "season": "Summer",
+      "city": "Stockholm",
+      "fAthletesCount": 53,
+      "mAthletesCount": 2356,
+      "totalAthletes": 2409,
+      "fRatioPct": 2.2,
+      "fSportsCount": 3,
+      "mSportsCount": 17,
+      "fEventsCount": 7,
+      "mEventsCount": 102,
+      "fNocsCount": 10,
+      "mNocsCount": 29,
+      "fMedalsTotal": 30,
+      "mMedalsTotal": 911,
+      "milestone": {
+        "title": "Natação e Saltos Ornamentais",
+        "description": "Em Estocolmo 1912, a natação feminina é introduzida. Fanny Durack (Austrália) conquista o ouro nos 100m livre."
+      }
+    },
+    {
+      "edition": "1920 Summer",
+      "year": 1920,
+      "season": "Summer",
+      "city": "Antwerpen",
+      "fAthletesCount": 78,
+      "mAthletesCount": 2598,
+      "totalAthletes": 2676,
+      "fRatioPct": 2.91,
+      "fSportsCount": 6,
+      "mSportsCount": 25,
+      "fEventsCount": 12,
+      "mEventsCount": 150,
+      "fNocsCount": 14,
+      "mNocsCount": 29,
+      "fMedalsTotal": 44,
+      "mMedalsTotal": 1264,
+      "milestone": null
+    },
+    {
+      "edition": "1924 Summer",
+      "year": 1924,
+      "season": "Summer",
+      "city": "Paris",
+      "fAthletesCount": 156,
+      "mAthletesCount": 3100,
+      "totalAthletes": 3256,
+      "fRatioPct": 4.79,
+      "fSportsCount": 6,
+      "mSportsCount": 20,
+      "fEventsCount": 17,
+      "mEventsCount": 121,
+      "fNocsCount": 22,
+      "mNocsCount": 45,
+      "fMedalsTotal": 46,
+      "mMedalsTotal": 786,
+      "milestone": null
+    },
+    {
+      "edition": "1924 Winter",
+      "year": 1924,
+      "season": "Winter",
+      "city": "Chamonix",
+      "fAthletesCount": 13,
+      "mAthletesCount": 300,
+      "totalAthletes": 313,
+      "fRatioPct": 4.15,
+      "fSportsCount": 1,
+      "mSportsCount": 10,
+      "fEventsCount": 2,
+      "mEventsCount": 16,
+      "fNocsCount": 8,
+      "mNocsCount": 19,
+      "fMedalsTotal": 6,
+      "mMedalsTotal": 124,
+      "milestone": null
+    },
+    {
+      "edition": "1928 Summer",
+      "year": 1928,
+      "season": "Summer",
+      "city": "Amsterdam",
+      "fAthletesCount": 312,
+      "mAthletesCount": 2935,
+      "totalAthletes": 3247,
+      "fRatioPct": 9.61,
+      "fSportsCount": 7,
+      "mSportsCount": 17,
+      "fEventsCount": 21,
+      "mEventsCount": 108,
+      "fNocsCount": 25,
+      "mNocsCount": 46,
+      "fMedalsTotal": 97,
+      "mMedalsTotal": 637,
+      "milestone": {
+        "title": "Estreia no Atletismo & Ginástica",
+        "description": "Em Amsterdã 1928, o atletismo e a ginástica feminina fazem sua estreia. A imprensa tentou banir os 800m alegando que a distância causava 'exaustão excessiva'."
+      }
+    },
+    {
+      "edition": "1928 Winter",
+      "year": 1928,
+      "season": "Winter",
+      "city": "Sankt Moritz",
+      "fAthletesCount": 28,
+      "mAthletesCount": 433,
+      "totalAthletes": 461,
+      "fRatioPct": 6.07,
+      "fSportsCount": 1,
+      "mSportsCount": 8,
+      "fEventsCount": 2,
+      "mEventsCount": 13,
+      "fNocsCount": 11,
+      "mNocsCount": 25,
+      "fMedalsTotal": 6,
+      "mMedalsTotal": 83,
+      "milestone": {
+        "title": "Estreia no Atletismo & Ginástica",
+        "description": "Em Amsterdã 1928, o atletismo e a ginástica feminina fazem sua estreia. A imprensa tentou banir os 800m alegando que a distância causava 'exaustão excessiva'."
+      }
+    },
+    {
+      "edition": "1932 Summer",
+      "year": 1932,
+      "season": "Summer",
+      "city": "Los Angeles",
+      "fAthletesCount": 201,
+      "mAthletesCount": 1721,
+      "totalAthletes": 1922,
+      "fRatioPct": 10.46,
+      "fSportsCount": 5,
+      "mSportsCount": 18,
+      "fEventsCount": 20,
+      "mEventsCount": 117,
+      "fNocsCount": 21,
+      "mNocsCount": 46,
+      "fMedalsTotal": 62,
+      "mMedalsTotal": 585,
+      "milestone": null
+    },
+    {
+      "edition": "1932 Winter",
+      "year": 1932,
+      "season": "Winter",
+      "city": "Lake Placid",
+      "fAthletesCount": 21,
+      "mAthletesCount": 231,
+      "totalAthletes": 252,
+      "fRatioPct": 8.33,
+      "fSportsCount": 1,
+      "mSportsCount": 7,
+      "fEventsCount": 2,
+      "mEventsCount": 13,
+      "fNocsCount": 9,
+      "mNocsCount": 16,
+      "fMedalsTotal": 6,
+      "mMedalsTotal": 86,
+      "milestone": null
+    },
+    {
+      "edition": "1936 Summer",
+      "year": 1936,
+      "season": "Summer",
+      "city": "Berlin",
+      "fAthletesCount": 361,
+      "mAthletesCount": 4123,
+      "totalAthletes": 4484,
+      "fRatioPct": 8.05,
+      "fSportsCount": 8,
+      "mSportsCount": 24,
+      "fEventsCount": 24,
+      "mEventsCount": 135,
+      "fNocsCount": 29,
+      "mNocsCount": 49,
+      "fMedalsTotal": 88,
+      "mMedalsTotal": 829,
+      "milestone": {
+        "title": "Pioneiras em Berlim",
+        "description": "O número de atletas femininas salta para 331. Treudl Beiser e Christl Cranz dominam no Esqui Alpino."
+      }
+    },
+    {
+      "edition": "1936 Winter",
+      "year": 1936,
+      "season": "Winter",
+      "city": "Garmisch-Partenkirchen",
+      "fAthletesCount": 80,
+      "mAthletesCount": 588,
+      "totalAthletes": 668,
+      "fRatioPct": 11.98,
+      "fSportsCount": 2,
+      "mSportsCount": 8,
+      "fEventsCount": 3,
+      "mEventsCount": 15,
+      "fNocsCount": 18,
+      "mNocsCount": 28,
+      "fMedalsTotal": 9,
+      "mMedalsTotal": 99,
+      "milestone": {
+        "title": "Pioneiras em Berlim",
+        "description": "O número de atletas femininas salta para 331. Treudl Beiser e Christl Cranz dominam no Esqui Alpino."
+      }
+    },
+    {
+      "edition": "1948 Summer",
+      "year": 1948,
+      "season": "Summer",
+      "city": "London",
+      "fAthletesCount": 446,
+      "mAthletesCount": 3956,
+      "totalAthletes": 4402,
+      "fRatioPct": 10.13,
+      "fSportsCount": 7,
+      "mSportsCount": 20,
+      "fEventsCount": 34,
+      "mEventsCount": 133,
+      "fNocsCount": 34,
+      "mNocsCount": 59,
+      "fMedalsTotal": 101,
+      "mMedalsTotal": 751,
+      "milestone": {
+        "title": "A 'Dona de Casa Voadora'",
+        "description": "Em Londres 1948, Fanny Blankers-Koen (Holanda), mãe de 2 filhos, vence 4 medalhas de ouro no atletismo, destruindo preconceitos da época."
+      }
+    },
+    {
+      "edition": "1948 Winter",
+      "year": 1948,
+      "season": "Winter",
+      "city": "Sankt Moritz",
+      "fAthletesCount": 77,
+      "mAthletesCount": 591,
+      "totalAthletes": 668,
+      "fRatioPct": 11.53,
+      "fSportsCount": 2,
+      "mSportsCount": 9,
+      "fEventsCount": 5,
+      "mEventsCount": 18,
+      "fNocsCount": 12,
+      "mNocsCount": 28,
+      "fMedalsTotal": 15,
+      "mMedalsTotal": 120,
+      "milestone": {
+        "title": "A 'Dona de Casa Voadora'",
+        "description": "Em Londres 1948, Fanny Blankers-Koen (Holanda), mãe de 2 filhos, vence 4 medalhas de ouro no atletismo, destruindo preconceitos da época."
+      }
+    },
+    {
+      "edition": "1952 Summer",
+      "year": 1952,
+      "season": "Summer",
+      "city": "Helsinki",
+      "fAthletesCount": 521,
+      "mAthletesCount": 4411,
+      "totalAthletes": 4932,
+      "fRatioPct": 10.56,
+      "fSportsCount": 8,
+      "mSportsCount": 19,
+      "fEventsCount": 30,
+      "mEventsCount": 124,
+      "fNocsCount": 41,
+      "mNocsCount": 69,
+      "fMedalsTotal": 140,
+      "mMedalsTotal": 757,
+      "milestone": {
+        "title": "Entrada da União Soviética & Equitação Mista",
+        "description": "Em Helsinque 1952, a União Soviética estreia e traz um enorme contingente feminino. Lis Hartel (dinamarquesa com poliomielite) ganha prata no Adestramento Misto."
+      }
+    },
+    {
+      "edition": "1952 Winter",
+      "year": 1952,
+      "season": "Winter",
+      "city": "Oslo",
+      "fAthletesCount": 109,
+      "mAthletesCount": 585,
+      "totalAthletes": 694,
+      "fRatioPct": 15.71,
+      "fSportsCount": 3,
+      "mSportsCount": 8,
+      "fEventsCount": 6,
+      "mEventsCount": 17,
+      "fNocsCount": 18,
+      "mNocsCount": 30,
+      "fMedalsTotal": 18,
+      "mMedalsTotal": 118,
+      "milestone": {
+        "title": "Entrada da União Soviética & Equitação Mista",
+        "description": "Em Helsinque 1952, a União Soviética estreia e traz um enorme contingente feminino. Lis Hartel (dinamarquesa com poliomielite) ganha prata no Adestramento Misto."
+      }
+    },
+    {
+      "edition": "1956 Summer",
+      "year": 1956,
+      "season": "Summer",
+      "city": "Melbourne",
+      "fAthletesCount": 384,
+      "mAthletesCount": 2963,
+      "totalAthletes": 3347,
+      "fRatioPct": 11.47,
+      "fSportsCount": 7,
+      "mSportsCount": 19,
+      "fEventsCount": 30,
+      "mEventsCount": 125,
+      "fNocsCount": 38,
+      "mNocsCount": 72,
+      "fMedalsTotal": 144,
+      "mMedalsTotal": 749,
+      "milestone": null
+    },
+    {
+      "edition": "1956 Winter",
+      "year": 1956,
+      "season": "Winter",
+      "city": "Cortina d'Ampezzo",
+      "fAthletesCount": 132,
+      "mAthletesCount": 689,
+      "totalAthletes": 821,
+      "fRatioPct": 16.08,
+      "fSportsCount": 3,
+      "mSportsCount": 8,
+      "fEventsCount": 7,
+      "mEventsCount": 18,
+      "fNocsCount": 21,
+      "mNocsCount": 32,
+      "fMedalsTotal": 27,
+      "mMedalsTotal": 123,
+      "milestone": null
+    },
+    {
+      "edition": "1960 Summer",
+      "year": 1960,
+      "season": "Summer",
+      "city": "Roma",
+      "fAthletesCount": 613,
+      "mAthletesCount": 4739,
+      "totalAthletes": 5352,
+      "fRatioPct": 11.45,
+      "fSportsCount": 8,
+      "mSportsCount": 19,
+      "fEventsCount": 33,
+      "mEventsCount": 121,
+      "fNocsCount": 47,
+      "mNocsCount": 83,
+      "fMedalsTotal": 156,
+      "mMedalsTotal": 755,
+      "milestone": null
+    },
+    {
+      "edition": "1960 Winter",
+      "year": 1960,
+      "season": "Winter",
+      "city": "Squaw Valley",
+      "fAthletesCount": 144,
+      "mAthletesCount": 521,
+      "totalAthletes": 665,
+      "fRatioPct": 21.65,
+      "fSportsCount": 4,
+      "mSportsCount": 8,
+      "fEventsCount": 11,
+      "mEventsCount": 17,
+      "fNocsCount": 24,
+      "mNocsCount": 30,
+      "fMedalsTotal": 39,
+      "mMedalsTotal": 108,
+      "milestone": null
+    },
+    {
+      "edition": "1964 Summer",
+      "year": 1964,
+      "season": "Summer",
+      "city": "Tokyo",
+      "fAthletesCount": 680,
+      "mAthletesCount": 4457,
+      "totalAthletes": 5137,
+      "fRatioPct": 13.24,
+      "fSportsCount": 9,
+      "mSportsCount": 21,
+      "fEventsCount": 40,
+      "mEventsCount": 130,
+      "fNocsCount": 53,
+      "mNocsCount": 93,
+      "fMedalsTotal": 200,
+      "mMedalsTotal": 829,
+      "milestone": {
+        "title": "As 'Bruxas das Galáxias' do Vôlei",
+        "description": "Em Tóquio 1964, o Vôlei feminino estreia e a seleção do Japão conquista o ouro com uma campanha inesquecível."
+      }
+    },
+    {
+      "edition": "1964 Winter",
+      "year": 1964,
+      "season": "Winter",
+      "city": "Innsbruck",
+      "fAthletesCount": 200,
+      "mAthletesCount": 894,
+      "totalAthletes": 1094,
+      "fRatioPct": 18.28,
+      "fSportsCount": 5,
+      "mSportsCount": 10,
+      "fEventsCount": 13,
+      "mEventsCount": 22,
+      "fNocsCount": 25,
+      "mNocsCount": 36,
+      "fMedalsTotal": 46,
+      "mMedalsTotal": 140,
+      "milestone": {
+        "title": "As 'Bruxas das Galáxias' do Vôlei",
+        "description": "Em Tóquio 1964, o Vôlei feminino estreia e a seleção do Japão conquista o ouro com uma campanha inesquecível."
+      }
+    },
+    {
+      "edition": "1968 Summer",
+      "year": 1968,
+      "season": "Summer",
+      "city": "Mexico City",
+      "fAthletesCount": 783,
+      "mAthletesCount": 4775,
+      "totalAthletes": 5558,
+      "fRatioPct": 14.09,
+      "fSportsCount": 9,
+      "mSportsCount": 20,
+      "fEventsCount": 47,
+      "mEventsCount": 133,
+      "fNocsCount": 54,
+      "mNocsCount": 112,
+      "fMedalsTotal": 215,
+      "mMedalsTotal": 842,
+      "milestone": null
+    },
+    {
+      "edition": "1968 Winter",
+      "year": 1968,
+      "season": "Winter",
+      "city": "Grenoble",
+      "fAthletesCount": 211,
+      "mAthletesCount": 949,
+      "totalAthletes": 1160,
+      "fRatioPct": 18.19,
+      "fSportsCount": 5,
+      "mSportsCount": 10,
+      "fEventsCount": 13,
+      "mEventsCount": 23,
+      "fNocsCount": 27,
+      "mNocsCount": 37,
+      "fMedalsTotal": 46,
+      "mMedalsTotal": 153,
+      "milestone": null
+    },
+    {
+      "edition": "1972 Summer",
+      "year": 1972,
+      "season": "Summer",
+      "city": "Munich",
+      "fAthletesCount": 1060,
+      "mAthletesCount": 6054,
+      "totalAthletes": 7114,
+      "fRatioPct": 14.9,
+      "fSportsCount": 10,
+      "mSportsCount": 23,
+      "fEventsCount": 52,
+      "mEventsCount": 150,
+      "fNocsCount": 67,
+      "mNocsCount": 121,
+      "fMedalsTotal": 250,
+      "mMedalsTotal": 965,
+      "milestone": null
+    },
+    {
+      "edition": "1972 Winter",
+      "year": 1972,
+      "season": "Winter",
+      "city": "Sapporo",
+      "fAthletesCount": 206,
+      "mAthletesCount": 802,
+      "totalAthletes": 1008,
+      "fRatioPct": 20.44,
+      "fSportsCount": 5,
+      "mSportsCount": 10,
+      "fEventsCount": 13,
+      "mEventsCount": 23,
+      "fNocsCount": 22,
+      "mNocsCount": 33,
+      "fMedalsTotal": 45,
+      "mMedalsTotal": 154,
+      "milestone": null
+    },
+    {
+      "edition": "1976 Summer",
+      "year": 1976,
+      "season": "Summer",
+      "city": "Montreal",
+      "fAthletesCount": 1260,
+      "mAthletesCount": 4813,
+      "totalAthletes": 6073,
+      "fRatioPct": 20.75,
+      "fSportsCount": 14,
+      "mSportsCount": 23,
+      "fEventsCount": 60,
+      "mEventsCount": 149,
+      "fNocsCount": 65,
+      "mNocsCount": 91,
+      "fMedalsTotal": 389,
+      "mMedalsTotal": 931,
+      "milestone": {
+        "title": "A Nota 10 Perfeita de Nadia",
+        "description": "Em Montreal 1976, Nadia Comăneci (Romênia) de 14 anos faz história ao conquistar a primeira nota 10.0 perfeita na ginástica artística."
+      }
+    },
+    {
+      "edition": "1976 Winter",
+      "year": 1976,
+      "season": "Winter",
+      "city": "Innsbruck",
+      "fAthletesCount": 231,
+      "mAthletesCount": 897,
+      "totalAthletes": 1128,
+      "fRatioPct": 20.48,
+      "fSportsCount": 5,
+      "mSportsCount": 10,
+      "fEventsCount": 14,
+      "mEventsCount": 25,
+      "fNocsCount": 26,
+      "mNocsCount": 36,
+      "fMedalsTotal": 51,
+      "mMedalsTotal": 160,
+      "milestone": {
+        "title": "A Nota 10 Perfeita de Nadia",
+        "description": "Em Montreal 1976, Nadia Comăneci (Romênia) de 14 anos faz história ao conquistar a primeira nota 10.0 perfeita na ginástica artística."
+      }
+    },
+    {
+      "edition": "1980 Summer",
+      "year": 1980,
+      "season": "Summer",
+      "city": "Moskva",
+      "fAthletesCount": 1123,
+      "mAthletesCount": 4136,
+      "totalAthletes": 5259,
+      "fRatioPct": 21.35,
+      "fSportsCount": 15,
+      "mSportsCount": 23,
+      "fEventsCount": 59,
+      "mEventsCount": 153,
+      "fNocsCount": 56,
+      "mNocsCount": 80,
+      "fMedalsTotal": 434,
+      "mMedalsTotal": 950,
+      "milestone": null
+    },
+    {
+      "edition": "1980 Winter",
+      "year": 1980,
+      "season": "Winter",
+      "city": "Lake Placid",
+      "fAthletesCount": 235,
+      "mAthletesCount": 836,
+      "totalAthletes": 1071,
+      "fRatioPct": 21.94,
+      "fSportsCount": 5,
+      "mSportsCount": 10,
+      "fEventsCount": 14,
+      "mEventsCount": 26,
+      "fNocsCount": 29,
+      "mNocsCount": 37,
+      "fMedalsTotal": 51,
+      "mMedalsTotal": 167,
+      "milestone": null
+    },
+    {
+      "edition": "1984 Summer",
+      "year": 1984,
+      "season": "Summer",
+      "city": "Los Angeles",
+      "fAthletesCount": 1569,
+      "mAthletesCount": 5229,
+      "totalAthletes": 6798,
+      "fRatioPct": 23.08,
+      "fSportsCount": 18,
+      "mSportsCount": 23,
+      "fEventsCount": 71,
+      "mEventsCount": 159,
+      "fNocsCount": 95,
+      "mNocsCount": 140,
+      "fMedalsTotal": 494,
+      "mMedalsTotal": 982,
+      "milestone": {
+        "title": "Maratona Feminina & Pioneira Árabe",
+        "description": "Em Los Angeles 1984, estreia a Maratona Feminina (vitória de Joan Benoit). Nawal El Moutawakel (Marrocos) torna-se a 1ª mulher muçulmana a conquistar um ouro olímpico."
+      }
+    },
+    {
+      "edition": "1984 Winter",
+      "year": 1984,
+      "season": "Winter",
+      "city": "Sarajevo",
+      "fAthletesCount": 277,
+      "mAthletesCount": 996,
+      "totalAthletes": 1273,
+      "fRatioPct": 21.76,
+      "fSportsCount": 5,
+      "mSportsCount": 10,
+      "fEventsCount": 15,
+      "mEventsCount": 26,
+      "fNocsCount": 33,
+      "mNocsCount": 49,
+      "fMedalsTotal": 54,
+      "mMedalsTotal": 168,
+      "milestone": {
+        "title": "Maratona Feminina & Pioneira Árabe",
+        "description": "Em Los Angeles 1984, estreia a Maratona Feminina (vitória de Joan Benoit). Nawal El Moutawakel (Marrocos) torna-se a 1ª mulher muçulmana a conquistar um ouro olímpico."
+      }
+    },
+    {
+      "edition": "1988 Summer",
+      "year": 1988,
+      "season": "Summer",
+      "city": "Seoul",
+      "fAthletesCount": 2203,
+      "mAthletesCount": 6251,
+      "totalAthletes": 8454,
+      "fRatioPct": 26.06,
+      "fSportsCount": 20,
+      "mSportsCount": 25,
+      "fEventsCount": 81,
+      "mEventsCount": 165,
+      "fNocsCount": 118,
+      "mNocsCount": 158,
+      "fMedalsTotal": 554,
+      "mMedalsTotal": 1028,
+      "milestone": null
+    },
+    {
+      "edition": "1988 Winter",
+      "year": 1988,
+      "season": "Winter",
+      "city": "Calgary",
+      "fAthletesCount": 315,
+      "mAthletesCount": 1110,
+      "totalAthletes": 1425,
+      "fRatioPct": 22.11,
+      "fSportsCount": 5,
+      "mSportsCount": 10,
+      "fEventsCount": 18,
+      "mEventsCount": 30,
+      "fNocsCount": 41,
+      "mNocsCount": 56,
+      "fMedalsTotal": 63,
+      "mMedalsTotal": 200,
+      "milestone": null
+    },
+    {
+      "edition": "1992 Summer",
+      "year": 1992,
+      "season": "Summer",
+      "city": "Barcelona",
+      "fAthletesCount": 2723,
+      "mAthletesCount": 6663,
+      "totalAthletes": 9386,
+      "fRatioPct": 29.01,
+      "fSportsCount": 22,
+      "mSportsCount": 27,
+      "fEventsCount": 96,
+      "mEventsCount": 171,
+      "fNocsCount": 134,
+      "mNocsCount": 169,
+      "fMedalsTotal": 592,
+      "mMedalsTotal": 1120,
+      "milestone": null
+    },
+    {
+      "edition": "1992 Winter",
+      "year": 1992,
+      "season": "Winter",
+      "city": "Albertville",
+      "fAthletesCount": 488,
+      "mAthletesCount": 1313,
+      "totalAthletes": 1801,
+      "fRatioPct": 27.1,
+      "fSportsCount": 8,
+      "mSportsCount": 12,
+      "fEventsCount": 25,
+      "mEventsCount": 34,
+      "fNocsCount": 45,
+      "mNocsCount": 63,
+      "fMedalsTotal": 99,
+      "mMedalsTotal": 219,
+      "milestone": null
+    },
+    {
+      "edition": "1994 Winter",
+      "year": 1994,
+      "season": "Winter",
+      "city": "Lillehammer",
+      "fAthletesCount": 522,
+      "mAthletesCount": 1216,
+      "totalAthletes": 1738,
+      "fRatioPct": 30.03,
+      "fSportsCount": 8,
+      "mSportsCount": 12,
+      "fEventsCount": 27,
+      "mEventsCount": 36,
+      "fNocsCount": 45,
+      "mNocsCount": 65,
+      "fMedalsTotal": 108,
+      "mMedalsTotal": 223,
+      "milestone": null
+    },
+    {
+      "edition": "1996 Summer",
+      "year": 1996,
+      "season": "Summer",
+      "city": "Atlanta",
+      "fAthletesCount": 3517,
+      "mAthletesCount": 6822,
+      "totalAthletes": 10339,
+      "fRatioPct": 34.02,
+      "fSportsCount": 25,
+      "mSportsCount": 28,
+      "fEventsCount": 105,
+      "mEventsCount": 174,
+      "fNocsCount": 168,
+      "mNocsCount": 195,
+      "fMedalsTotal": 764,
+      "mMedalsTotal": 1078,
+      "milestone": {
+        "title": "O Ano das Mulheres",
+        "description": "Em Atlanta 1996, o Futebol e o Basquete feminino atingem enorme destaque global. O Brasil conquista o Ouro no Vôlei de Praia com Jaqueline & Sandra."
+      }
+    },
+    {
+      "edition": "1998 Winter",
+      "year": 1998,
+      "season": "Winter",
+      "city": "Nagano",
+      "fAthletesCount": 789,
+      "mAthletesCount": 1390,
+      "totalAthletes": 2179,
+      "fRatioPct": 36.21,
+      "fSportsCount": 11,
+      "mSportsCount": 14,
+      "fEventsCount": 31,
+      "mEventsCount": 39,
+      "fNocsCount": 54,
+      "mNocsCount": 71,
+      "fMedalsTotal": 189,
+      "mMedalsTotal": 251,
+      "milestone": null
+    },
+    {
+      "edition": "2000 Summer",
+      "year": 2000,
+      "season": "Summer",
+      "city": "Sydney",
+      "fAthletesCount": 4068,
+      "mAthletesCount": 6579,
+      "totalAthletes": 10647,
+      "fRatioPct": 38.21,
+      "fSportsCount": 31,
+      "mSportsCount": 31,
+      "fEventsCount": 128,
+      "mEventsCount": 180,
+      "fNocsCount": 191,
+      "mNocsCount": 200,
+      "fMedalsTotal": 880,
+      "mMedalsTotal": 1124,
+      "milestone": null
+    },
+    {
+      "edition": "2002 Winter",
+      "year": 2002,
+      "season": "Winter",
+      "city": "Salt Lake City",
+      "fAthletesCount": 886,
+      "mAthletesCount": 1513,
+      "totalAthletes": 2399,
+      "fRatioPct": 36.93,
+      "fSportsCount": 13,
+      "mSportsCount": 15,
+      "fEventsCount": 36,
+      "mEventsCount": 44,
+      "fNocsCount": 55,
+      "mNocsCount": 76,
+      "fMedalsTotal": 208,
+      "mMedalsTotal": 270,
+      "milestone": null
+    },
+    {
+      "edition": "2004 Summer",
+      "year": 2004,
+      "season": "Summer",
+      "city": "Athina",
+      "fAthletesCount": 4300,
+      "mAthletesCount": 6257,
+      "totalAthletes": 10557,
+      "fRatioPct": 40.73,
+      "fSportsCount": 32,
+      "mSportsCount": 31,
+      "fEventsCount": 132,
+      "mEventsCount": 176,
+      "fNocsCount": 192,
+      "mNocsCount": 199,
+      "fMedalsTotal": 898,
+      "mMedalsTotal": 1103,
+      "milestone": {
+        "title": "Lutas e Halterofilismo",
+        "description": "Em Atenas 2004, Luta Olímpica feminina é incluída. Esportes de força e combate passam a ter presença feminina consolidada."
+      }
+    },
+    {
+      "edition": "2006 Winter",
+      "year": 2006,
+      "season": "Winter",
+      "city": "Torino",
+      "fAthletesCount": 955,
+      "mAthletesCount": 1539,
+      "totalAthletes": 2494,
+      "fRatioPct": 38.29,
+      "fSportsCount": 13,
+      "mSportsCount": 15,
+      "fEventsCount": 39,
+      "mEventsCount": 47,
+      "fNocsCount": 59,
+      "mNocsCount": 76,
+      "fMedalsTotal": 231,
+      "mMedalsTotal": 295,
+      "milestone": null
+    },
+    {
+      "edition": "2008 Summer",
+      "year": 2008,
+      "season": "Summer",
+      "city": "Beijing",
+      "fAthletesCount": 4609,
+      "mAthletesCount": 6290,
+      "totalAthletes": 10899,
+      "fRatioPct": 42.29,
+      "fSportsCount": 32,
+      "mSportsCount": 31,
+      "fEventsCount": 135,
+      "mEventsCount": 175,
+      "fNocsCount": 195,
+      "mNocsCount": 203,
+      "fMedalsTotal": 932,
+      "mMedalsTotal": 1116,
+      "milestone": null
+    },
+    {
+      "edition": "2010 Winter",
+      "year": 2010,
+      "season": "Winter",
+      "city": "Vancouver",
+      "fAthletesCount": 1033,
+      "mAthletesCount": 1503,
+      "totalAthletes": 2536,
+      "fRatioPct": 40.73,
+      "fSportsCount": 13,
+      "mSportsCount": 15,
+      "fEventsCount": 40,
+      "mEventsCount": 48,
+      "fNocsCount": 63,
+      "mNocsCount": 80,
+      "fMedalsTotal": 229,
+      "mMedalsTotal": 291,
+      "milestone": null
+    },
+    {
+      "edition": "2012 Summer",
+      "year": 2012,
+      "season": "Summer",
+      "city": "London",
+      "fAthletesCount": 4654,
+      "mAthletesCount": 5863,
+      "totalAthletes": 10517,
+      "fRatioPct": 44.25,
+      "fSportsCount": 32,
+      "mSportsCount": 30,
+      "fEventsCount": 140,
+      "mEventsCount": 170,
+      "fNocsCount": 201,
+      "mNocsCount": 203,
+      "fMedalsTotal": 918,
+      "mMedalsTotal": 1023,
+      "milestone": {
+        "title": "Paridade de Países & Boxe Feminino",
+        "description": "Em Londres 2012, pela primeira vez na história, TODAS as delegações participantes incluíram mulheres (incluindo Arábia Saudita, Catar e Brunei) e todas as modalidades contavam com provas femininas."
+      }
+    },
+    {
+      "edition": "2014 Winter",
+      "year": 2014,
+      "season": "Winter",
+      "city": "Sochi",
+      "fAthletesCount": 1102,
+      "mAthletesCount": 1643,
+      "totalAthletes": 2745,
+      "fRatioPct": 40.15,
+      "fSportsCount": 14,
+      "mSportsCount": 15,
+      "fEventsCount": 48,
+      "mEventsCount": 55,
+      "fNocsCount": 68,
+      "mNocsCount": 84,
+      "fMedalsTotal": 265,
+      "mMedalsTotal": 332,
+      "milestone": null
+    },
+    {
+      "edition": "2016 Summer",
+      "year": 2016,
+      "season": "Summer",
+      "city": "Rio de Janeiro",
+      "fAthletesCount": 5034,
+      "mAthletesCount": 6145,
+      "totalAthletes": 11179,
+      "fRatioPct": 45.03,
+      "fSportsCount": 34,
+      "mSportsCount": 32,
+      "fEventsCount": 145,
+      "mEventsCount": 170,
+      "fNocsCount": 201,
+      "mNocsCount": 206,
+      "fMedalsTotal": 969,
+      "mMedalsTotal": 1054,
+      "milestone": {
+        "title": "O Esquadrão de Ouro Feminino",
+        "description": "Em Rio 2016, Simone Biles e Katie Ledecky quebram recordes históricos. Rafaela Silva ganha o 1º ouro do Brasil na Favela da Cidade de Deus."
+      }
+    }
+  ],
+  "physicalTrends": [
+    {
+      "decade": 1900,
+      "avgHeight": null,
+      "avgWeight": null,
+      "avgAge": 34.8,
+      "sampleCount": 80
+    },
+    {
+      "decade": 1910,
+      "avgHeight": null,
+      "avgWeight": null,
+      "avgAge": 22.4,
+      "sampleCount": 87
+    },
+    {
+      "decade": 1920,
+      "avgHeight": 165.4,
+      "avgWeight": 58.9,
+      "avgAge": 24.6,
+      "sampleCount": 697
+    },
+    {
+      "decade": 1930,
+      "avgHeight": 167.2,
+      "avgWeight": 58.9,
+      "avgAge": 25.5,
+      "sampleCount": 864
+    },
+    {
+      "decade": 1940,
+      "avgHeight": 168.5,
+      "avgWeight": 60,
+      "avgAge": 25.5,
+      "sampleCount": 696
+    },
+    {
+      "decade": 1950,
+      "avgHeight": 164.1,
+      "avgWeight": 58.3,
+      "avgAge": 22.7,
+      "sampleCount": 2743
+    },
+    {
+      "decade": 1960,
+      "avgHeight": 164.2,
+      "avgWeight": 57.8,
+      "avgAge": 21.5,
+      "sampleCount": 5667
+    },
+    {
+      "decade": 1970,
+      "avgHeight": 166,
+      "avgWeight": 57.5,
+      "avgAge": 20.8,
+      "sampleCount": 5206
+    },
+    {
+      "decade": 1980,
+      "avgHeight": 167.2,
+      "avgWeight": 58.5,
+      "avgAge": 22,
+      "sampleCount": 9355
+    },
+    {
+      "decade": 1990,
+      "avgHeight": 168,
+      "avgWeight": 59.5,
+      "avgAge": 23.4,
+      "sampleCount": 12666
+    },
+    {
+      "decade": 2000,
+      "avgHeight": 168.8,
+      "avgWeight": 61.1,
+      "avgAge": 24.8,
+      "sampleCount": 20129
+    },
+    {
+      "decade": 2010,
+      "avgHeight": 169,
+      "avgWeight": 61.7,
+      "avgAge": 25.4,
+      "sampleCount": 15908
+    }
+  ],
+  "sportsList": [
+    {
+      "sport": "Sailing",
+      "firstYear": 1900,
+      "fAthletesCount": 629,
+      "fEventsCount": 16
+    },
+    {
+      "sport": "Tennis",
+      "firstYear": 1900,
+      "fAthletesCount": 486,
+      "fEventsCount": 5
+    },
+    {
+      "sport": "Equestrianism",
+      "firstYear": 1900,
+      "fAthletesCount": 459,
+      "fEventsCount": 7
+    },
+    {
+      "sport": "Golf",
+      "firstYear": 1900,
+      "fAthletesCount": 70,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Croquet",
+      "firstYear": 1900,
+      "fAthletesCount": 3,
+      "fEventsCount": 2
+    },
+    {
+      "sport": "Archery",
+      "firstYear": 1904,
+      "fAthletesCount": 500,
+      "fEventsCount": 5
+    },
+    {
+      "sport": "Figure Skating",
+      "firstYear": 1908,
+      "fAthletesCount": 824,
+      "fEventsCount": 4
+    },
+    {
+      "sport": "Motorboating",
+      "firstYear": 1908,
+      "fAthletesCount": 1,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Swimming",
+      "firstYear": 1912,
+      "fAthletesCount": 3621,
+      "fEventsCount": 18
+    },
+    {
+      "sport": "Diving",
+      "firstYear": 1912,
+      "fAthletesCount": 635,
+      "fEventsCount": 5
+    },
+    {
+      "sport": "Art Competitions",
+      "firstYear": 1920,
+      "fAthletesCount": 204,
+      "fEventsCount": 23
+    },
+    {
+      "sport": "Fencing",
+      "firstYear": 1924,
+      "fAthletesCount": 880,
+      "fEventsCount": 6
+    },
+    {
+      "sport": "Athletics",
+      "firstYear": 1928,
+      "fAthletesCount": 6529,
+      "fEventsCount": 27
+    },
+    {
+      "sport": "Gymnastics",
+      "firstYear": 1928,
+      "fAthletesCount": 1499,
+      "fEventsCount": 7
+    },
+    {
+      "sport": "Alpine Skiing",
+      "firstYear": 1936,
+      "fAthletesCount": 996,
+      "fEventsCount": 5
+    },
+    {
+      "sport": "Alpinism",
+      "firstYear": 1936,
+      "fAthletesCount": 1,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Canoeing",
+      "firstYear": 1948,
+      "fAthletesCount": 702,
+      "fEventsCount": 5
+    },
+    {
+      "sport": "Cross Country Skiing",
+      "firstYear": 1952,
+      "fAthletesCount": 717,
+      "fEventsCount": 12
+    },
+    {
+      "sport": "Speed Skating",
+      "firstYear": 1960,
+      "fAthletesCount": 528,
+      "fEventsCount": 6
+    },
+    {
+      "sport": "Volleyball",
+      "firstYear": 1964,
+      "fAthletesCount": 1129,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Luge",
+      "firstYear": 1964,
+      "fAthletesCount": 228,
+      "fEventsCount": 2
+    },
+    {
+      "sport": "Shooting",
+      "firstYear": 1968,
+      "fAthletesCount": 737,
+      "fEventsCount": 12
+    },
+    {
+      "sport": "Rowing",
+      "firstYear": 1976,
+      "fAthletesCount": 1483,
+      "fEventsCount": 9
+    },
+    {
+      "sport": "Handball",
+      "firstYear": 1976,
+      "fAthletesCount": 1027,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Basketball",
+      "firstYear": 1976,
+      "fAthletesCount": 932,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Hockey",
+      "firstYear": 1980,
+      "fAthletesCount": 996,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Cycling",
+      "firstYear": 1984,
+      "fAthletesCount": 714,
+      "fEventsCount": 12
+    },
+    {
+      "sport": "Rhythmic Gymnastics",
+      "firstYear": 1984,
+      "fAthletesCount": 567,
+      "fEventsCount": 2
+    },
+    {
+      "sport": "Synchronized Swimming",
+      "firstYear": 1984,
+      "fAthletesCount": 550,
+      "fEventsCount": 3
+    },
+    {
+      "sport": "Table Tennis",
+      "firstYear": 1988,
+      "fAthletesCount": 377,
+      "fEventsCount": 3
+    },
+    {
+      "sport": "Judo",
+      "firstYear": 1992,
+      "fAthletesCount": 757,
+      "fEventsCount": 7
+    },
+    {
+      "sport": "Badminton",
+      "firstYear": 1992,
+      "fAthletesCount": 412,
+      "fEventsCount": 3
+    },
+    {
+      "sport": "Biathlon",
+      "firstYear": 1992,
+      "fAthletesCount": 371,
+      "fEventsCount": 8
+    },
+    {
+      "sport": "Freestyle Skiing",
+      "firstYear": 1992,
+      "fAthletesCount": 267,
+      "fEventsCount": 5
+    },
+    {
+      "sport": "Short Track Speed Skating",
+      "firstYear": 1992,
+      "fAthletesCount": 209,
+      "fEventsCount": 4
+    },
+    {
+      "sport": "Football",
+      "firstYear": 1996,
+      "fAthletesCount": 734,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Softball",
+      "firstYear": 1996,
+      "fAthletesCount": 367,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Beach Volleyball",
+      "firstYear": 1996,
+      "fAthletesCount": 189,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Ice Hockey",
+      "firstYear": 1998,
+      "fAthletesCount": 498,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Snowboarding",
+      "firstYear": 1998,
+      "fAthletesCount": 239,
+      "fEventsCount": 6
+    },
+    {
+      "sport": "Curling",
+      "firstYear": 1998,
+      "fAthletesCount": 160,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Weightlifting",
+      "firstYear": 2000,
+      "fAthletesCount": 356,
+      "fEventsCount": 7
+    },
+    {
+      "sport": "Water Polo",
+      "firstYear": 2000,
+      "fAthletesCount": 337,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Taekwondo",
+      "firstYear": 2000,
+      "fAthletesCount": 229,
+      "fEventsCount": 4
+    },
+    {
+      "sport": "Triathlon",
+      "firstYear": 2000,
+      "fAthletesCount": 175,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Modern Pentathlon",
+      "firstYear": 2000,
+      "fAthletesCount": 114,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Trampolining",
+      "firstYear": 2000,
+      "fAthletesCount": 44,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Bobsleigh",
+      "firstYear": 2002,
+      "fAthletesCount": 109,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Skeleton",
+      "firstYear": 2002,
+      "fAthletesCount": 45,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Wrestling",
+      "firstYear": 2004,
+      "fAthletesCount": 222,
+      "fEventsCount": 6
+    },
+    {
+      "sport": "Boxing",
+      "firstYear": 2012,
+      "fAthletesCount": 65,
+      "fEventsCount": 3
+    },
+    {
+      "sport": "Ski Jumping",
+      "firstYear": 2014,
+      "fAthletesCount": 30,
+      "fEventsCount": 1
+    },
+    {
+      "sport": "Rugby Sevens",
+      "firstYear": 2016,
+      "fAthletesCount": 148,
+      "fEventsCount": 1
+    }
+  ],
+  "topFemaleAthletes": [
+    {
+      "id": "67046",
+      "name": "Larysa Semenivna Latynina (Diriy-)",
+      "noc": "URS",
+      "region": "URS",
+      "sports": [
+        "Gymnastics"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 9,
+        "Silver": 5,
+        "Bronze": 4,
+        "Total": 18
+      },
+      "games": [
+        "1956 Summer",
+        "1960 Summer",
+        "1964 Summer"
+      ],
+      "firstYear": 1956,
+      "lastYear": 1964
+    },
+    {
+      "id": "35550",
+      "name": "Birgit Fischer-Schmidt",
+      "noc": "GDR",
+      "region": "GDR",
+      "sports": [
+        "Canoeing"
+      ],
+      "gamesCount": 6,
+      "medals": {
+        "Gold": 8,
+        "Silver": 4,
+        "Bronze": 0,
+        "Total": 12
+      },
+      "games": [
+        "1980 Summer",
+        "1988 Summer",
+        "1992 Summer",
+        "1996 Summer",
+        "2000 Summer",
+        "2004 Summer"
+      ],
+      "firstYear": 1980,
+      "lastYear": 2004
+    },
+    {
+      "id": "119922",
+      "name": "Jennifer Elisabeth Jenny Thompson (-Cumpelik)",
+      "noc": "USA",
+      "region": "USA",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 8,
+        "Silver": 3,
+        "Bronze": 1,
+        "Total": 12
+      },
+      "games": [
+        "1992 Summer",
+        "1996 Summer",
+        "2000 Summer",
+        "2004 Summer"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2004
+    },
+    {
+      "id": "121258",
+      "name": "Dara Grace Torres (-Hoffman, -Minas)",
+      "noc": "USA",
+      "region": "USA",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 4,
+        "Silver": 4,
+        "Bronze": 4,
+        "Total": 12
+      },
+      "games": [
+        "1984 Summer",
+        "1988 Summer",
+        "1992 Summer",
+        "2000 Summer",
+        "2008 Summer"
+      ],
+      "firstYear": 1984,
+      "lastYear": 2008
+    },
+    {
+      "id": "23426",
+      "name": "Natalie Anne Coughlin (-Hall)",
+      "noc": "USA",
+      "region": "USA",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 3,
+        "Silver": 4,
+        "Bronze": 5,
+        "Total": 12
+      },
+      "games": [
+        "2004 Summer",
+        "2008 Summer",
+        "2012 Summer"
+      ],
+      "firstYear": 2004,
+      "lastYear": 2012
+    },
+    {
+      "id": "18826",
+      "name": "Vra slavsk (-Odloilov)",
+      "noc": "TCH",
+      "region": "TCH",
+      "sports": [
+        "Gymnastics"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 7,
+        "Silver": 4,
+        "Bronze": 0,
+        "Total": 11
+      },
+      "games": [
+        "1960 Summer",
+        "1964 Summer",
+        "1968 Summer"
+      ],
+      "firstYear": 1960,
+      "lastYear": 1968
+    },
+    {
+      "id": "11943",
+      "name": "Marit Bjrgen",
+      "noc": "NOR",
+      "region": "NOR",
+      "sports": [
+        "Cross Country Skiing"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 6,
+        "Silver": 3,
+        "Bronze": 1,
+        "Total": 10
+      },
+      "games": [
+        "2002 Winter",
+        "2006 Winter",
+        "2010 Winter",
+        "2014 Winter"
+      ],
+      "firstYear": 2002,
+      "lastYear": 2014
+    },
+    {
+      "id": "129726",
+      "name": "Isabelle Regina Werth",
+      "noc": "GER",
+      "region": "GER",
+      "sports": [
+        "Equestrianism"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 6,
+        "Silver": 4,
+        "Bronze": 0,
+        "Total": 10
+      },
+      "games": [
+        "1992 Summer",
+        "1996 Summer",
+        "2000 Summer",
+        "2008 Summer",
+        "2016 Summer"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2016
+    },
+    {
+      "id": "5700",
+      "name": "Polina Hryhorivna Astakhova",
+      "noc": "URS",
+      "region": "URS",
+      "sports": [
+        "Gymnastics"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 5,
+        "Silver": 2,
+        "Bronze": 3,
+        "Total": 10
+      },
+      "games": [
+        "1956 Summer",
+        "1960 Summer",
+        "1964 Summer"
+      ],
+      "firstYear": 1956,
+      "lastYear": 1964
+    },
+    {
+      "id": "58489",
+      "name": "gnes Keleti-Srkny (Klein)",
+      "noc": "HUN",
+      "region": "HUN",
+      "sports": [
+        "Gymnastics"
+      ],
+      "gamesCount": 2,
+      "medals": {
+        "Gold": 5,
+        "Silver": 3,
+        "Bronze": 2,
+        "Total": 10
+      },
+      "games": [
+        "1952 Summer",
+        "1956 Summer"
+      ],
+      "firstYear": 1952,
+      "lastYear": 1956
+    },
+    {
+      "id": "112111",
+      "name": "Raisa Petrovna Smetanina",
+      "noc": "URS",
+      "region": "URS",
+      "sports": [
+        "Cross Country Skiing"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 4,
+        "Silver": 5,
+        "Bronze": 1,
+        "Total": 10
+      },
+      "games": [
+        "1976 Winter",
+        "1980 Winter",
+        "1984 Winter",
+        "1988 Winter",
+        "1992 Winter"
+      ],
+      "firstYear": 1976,
+      "lastYear": 1992
+    },
+    {
+      "id": "9747",
+      "name": "Stefania Belmondo",
+      "noc": "ITA",
+      "region": "ITA",
+      "sports": [
+        "Cross Country Skiing"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 2,
+        "Silver": 3,
+        "Bronze": 5,
+        "Total": 10
+      },
+      "games": [
+        "1988 Winter",
+        "1992 Winter",
+        "1994 Winter",
+        "1998 Winter",
+        "2002 Winter"
+      ],
+      "firstYear": 1988,
+      "lastYear": 2002
+    },
+    {
+      "id": "124146",
+      "name": "Franziska van Almsick",
+      "noc": "GER",
+      "region": "GER",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 0,
+        "Silver": 4,
+        "Bronze": 6,
+        "Total": 10
+      },
+      "games": [
+        "1992 Summer",
+        "1996 Summer",
+        "2000 Summer",
+        "2004 Summer"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2004
+    },
+    {
+      "id": "34551",
+      "name": "Allyson Michelle Felix",
+      "noc": "USA",
+      "region": "USA",
+      "sports": [
+        "Athletics"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 6,
+        "Silver": 3,
+        "Bronze": 0,
+        "Total": 9
+      },
+      "games": [
+        "2004 Summer",
+        "2008 Summer",
+        "2012 Summer",
+        "2016 Summer"
+      ],
+      "firstYear": 2004,
+      "lastYear": 2016
+    },
+    {
+      "id": "126257",
+      "name": "Maria Valentina Vezzali",
+      "noc": "ITA",
+      "region": "ITA",
+      "sports": [
+        "Fencing"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 6,
+        "Silver": 1,
+        "Bronze": 2,
+        "Total": 9
+      },
+      "games": [
+        "1996 Summer",
+        "2000 Summer",
+        "2004 Summer",
+        "2008 Summer",
+        "2012 Summer"
+      ],
+      "firstYear": 1996,
+      "lastYear": 2012
+    },
+    {
+      "id": "132791",
+      "name": "Lyubov Ivanovna Yegorova",
+      "noc": "EUN",
+      "region": "EUN",
+      "sports": [
+        "Cross Country Skiing"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 6,
+        "Silver": 3,
+        "Bronze": 0,
+        "Total": 9
+      },
+      "games": [
+        "1992 Winter",
+        "1994 Winter",
+        "2002 Winter"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2002
+    },
+    {
+      "id": "22570",
+      "name": "Nadia Elena Comneci (-Conner)",
+      "noc": "ROU",
+      "region": "ROU",
+      "sports": [
+        "Gymnastics"
+      ],
+      "gamesCount": 2,
+      "medals": {
+        "Gold": 5,
+        "Silver": 3,
+        "Bronze": 1,
+        "Total": 9
+      },
+      "games": [
+        "1976 Summer",
+        "1980 Summer"
+      ],
+      "firstYear": 1976,
+      "lastYear": 1980
+    },
+    {
+      "id": "92566",
+      "name": "Claudia Pechstein",
+      "noc": "GER",
+      "region": "GER",
+      "sports": [
+        "Speed Skating"
+      ],
+      "gamesCount": 6,
+      "medals": {
+        "Gold": 5,
+        "Silver": 2,
+        "Bronze": 2,
+        "Total": 9
+      },
+      "games": [
+        "1992 Winter",
+        "1994 Winter",
+        "1998 Winter",
+        "2002 Winter",
+        "2006 Winter",
+        "2014 Winter"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2014
+    },
+    {
+      "id": "122726",
+      "name": "Lyudmila Ivanovna Turishcheva (-Borzova)",
+      "noc": "URS",
+      "region": "URS",
+      "sports": [
+        "Gymnastics"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 4,
+        "Silver": 3,
+        "Bronze": 2,
+        "Total": 9
+      },
+      "games": [
+        "1968 Summer",
+        "1972 Summer",
+        "1976 Summer"
+      ],
+      "firstYear": 1968,
+      "lastYear": 1976
+    },
+    {
+      "id": "6430",
+      "name": "Shirley Frances Babashoff",
+      "noc": "USA",
+      "region": "USA",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 2,
+      "medals": {
+        "Gold": 3,
+        "Silver": 6,
+        "Bronze": 0,
+        "Total": 9
+      },
+      "games": [
+        "1972 Summer",
+        "1976 Summer"
+      ],
+      "firstYear": 1972,
+      "lastYear": 1976
+    },
+    {
+      "id": "55692",
+      "name": "Leisel Marie Jones",
+      "noc": "AUS",
+      "region": "AUS",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 3,
+        "Silver": 5,
+        "Bronze": 1,
+        "Total": 9
+      },
+      "games": [
+        "2000 Summer",
+        "2004 Summer",
+        "2008 Summer",
+        "2012 Summer"
+      ],
+      "firstYear": 2000,
+      "lastYear": 2012
+    },
+    {
+      "id": "124626",
+      "name": "Theodora Elisabeth Gerarda Anky van Grunsven",
+      "noc": "NED",
+      "region": "NED",
+      "sports": [
+        "Equestrianism"
+      ],
+      "gamesCount": 7,
+      "medals": {
+        "Gold": 3,
+        "Silver": 5,
+        "Bronze": 1,
+        "Total": 9
+      },
+      "games": [
+        "1988 Summer",
+        "1992 Summer",
+        "1996 Summer",
+        "2000 Summer",
+        "2004 Summer",
+        "2008 Summer",
+        "2012 Summer"
+      ],
+      "firstYear": 1988,
+      "lastYear": 2012
+    },
+    {
+      "id": "28751",
+      "name": "Ursula Uschi Disl",
+      "noc": "GER",
+      "region": "GER",
+      "sports": [
+        "Biathlon"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 2,
+        "Silver": 4,
+        "Bronze": 3,
+        "Total": 9
+      },
+      "games": [
+        "1992 Winter",
+        "1994 Winter",
+        "1998 Winter",
+        "2002 Winter",
+        "2006 Winter"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2006
+    },
+    {
+      "id": "90007",
+      "name": "Merlene Joyce Ottey-Page",
+      "noc": "JAM",
+      "region": "JAM",
+      "sports": [
+        "Athletics"
+      ],
+      "gamesCount": 7,
+      "medals": {
+        "Gold": 0,
+        "Silver": 3,
+        "Bronze": 6,
+        "Total": 9
+      },
+      "games": [
+        "1980 Summer",
+        "1984 Summer",
+        "1988 Summer",
+        "1992 Summer",
+        "1996 Summer",
+        "2000 Summer",
+        "2004 Summer"
+      ],
+      "firstYear": 1980,
+      "lastYear": 2004
+    },
+    {
+      "id": "88657",
+      "name": "Elisabeta Oleniuc-Lip",
+      "noc": "ROU",
+      "region": "ROU",
+      "sports": [
+        "Rowing"
+      ],
+      "gamesCount": 6,
+      "medals": {
+        "Gold": 5,
+        "Silver": 2,
+        "Bronze": 1,
+        "Total": 8
+      },
+      "games": [
+        "1984 Summer",
+        "1988 Summer",
+        "1992 Summer",
+        "1996 Summer",
+        "2000 Summer",
+        "2004 Summer"
+      ],
+      "firstYear": 1984,
+      "lastYear": 2004
+    },
+    {
+      "id": "25975",
+      "name": "Inge de Bruijn",
+      "noc": "NED",
+      "region": "NED",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 4,
+        "Silver": 2,
+        "Bronze": 2,
+        "Total": 8
+      },
+      "games": [
+        "1992 Summer",
+        "2000 Summer",
+        "2004 Summer"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2004
+    },
+    {
+      "id": "32552",
+      "name": "Kornelia Ender (-Matthes, -Grummt)",
+      "noc": "GDR",
+      "region": "GDR",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 2,
+      "medals": {
+        "Gold": 4,
+        "Silver": 4,
+        "Bronze": 0,
+        "Total": 8
+      },
+      "games": [
+        "1972 Summer",
+        "1976 Summer"
+      ],
+      "firstYear": 1972,
+      "lastYear": 1976
+    },
+    {
+      "id": "36840",
+      "name": "Dawn Lorraine Fraser",
+      "noc": "AUS",
+      "region": "AUS",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 4,
+        "Silver": 4,
+        "Bronze": 0,
+        "Total": 8
+      },
+      "games": [
+        "1956 Summer",
+        "1960 Summer",
+        "1964 Summer"
+      ],
+      "firstYear": 1956,
+      "lastYear": 1964
+    },
+    {
+      "id": "64799",
+      "name": "Galina Alekseyevna Kulakova",
+      "noc": "URS",
+      "region": "URS",
+      "sports": [
+        "Cross Country Skiing"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 4,
+        "Silver": 2,
+        "Bronze": 2,
+        "Total": 8
+      },
+      "games": [
+        "1968 Winter",
+        "1972 Winter",
+        "1976 Winter",
+        "1980 Winter"
+      ],
+      "firstYear": 1968,
+      "lastYear": 1980
+    },
+    {
+      "id": "107185",
+      "name": "Allison Rodgers Schmitt",
+      "noc": "USA",
+      "region": "USA",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 4,
+        "Silver": 2,
+        "Bronze": 2,
+        "Total": 8
+      },
+      "games": [
+        "2008 Summer",
+        "2012 Summer",
+        "2016 Summer"
+      ],
+      "firstYear": 2008,
+      "lastYear": 2016
+    },
+    {
+      "id": "121922",
+      "name": "Giovanna Trillini",
+      "noc": "ITA",
+      "region": "ITA",
+      "sports": [
+        "Fencing"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 4,
+        "Silver": 1,
+        "Bronze": 3,
+        "Total": 8
+      },
+      "games": [
+        "1992 Summer",
+        "1996 Summer",
+        "2000 Summer",
+        "2004 Summer",
+        "2008 Summer"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2008
+    },
+    {
+      "id": "131897",
+      "name": "Irene Karlijn Ireen Wst",
+      "noc": "NED",
+      "region": "NED",
+      "sports": [
+        "Speed Skating"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 4,
+        "Silver": 3,
+        "Bronze": 1,
+        "Total": 8
+      },
+      "games": [
+        "2006 Winter",
+        "2010 Winter",
+        "2014 Winter"
+      ],
+      "firstYear": 2006,
+      "lastYear": 2014
+    },
+    {
+      "id": "17755",
+      "name": "Veronica Angella Campbell-Brown",
+      "noc": "JAM",
+      "region": "JAM",
+      "sports": [
+        "Athletics"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 3,
+        "Silver": 3,
+        "Bronze": 2,
+        "Total": 8
+      },
+      "games": [
+        "2000 Summer",
+        "2004 Summer",
+        "2008 Summer",
+        "2012 Summer",
+        "2016 Summer"
+      ],
+      "firstYear": 2000,
+      "lastYear": 2016
+    },
+    {
+      "id": "32700",
+      "name": "Karin Enke-Kania (-Busch-, -Richter)",
+      "noc": "GDR",
+      "region": "GDR",
+      "sports": [
+        "Speed Skating"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 3,
+        "Silver": 4,
+        "Bronze": 1,
+        "Total": 8
+      },
+      "games": [
+        "1980 Winter",
+        "1984 Winter",
+        "1988 Winter"
+      ],
+      "firstYear": 1980,
+      "lastYear": 1988
+    },
+    {
+      "id": "63400",
+      "name": "Katalin Kovcs",
+      "noc": "HUN",
+      "region": "HUN",
+      "sports": [
+        "Canoeing"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 3,
+        "Silver": 5,
+        "Bronze": 0,
+        "Total": 8
+      },
+      "games": [
+        "2000 Summer",
+        "2004 Summer",
+        "2008 Summer",
+        "2012 Summer"
+      ],
+      "firstYear": 2000,
+      "lastYear": 2012
+    },
+    {
+      "id": "86067",
+      "name": "Gunda Niemann-Stirnemann-Kleemann",
+      "noc": "GDR",
+      "region": "GDR",
+      "sports": [
+        "Speed Skating"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 3,
+        "Silver": 4,
+        "Bronze": 1,
+        "Total": 8
+      },
+      "games": [
+        "1988 Winter",
+        "1992 Winter",
+        "1994 Winter",
+        "1998 Winter"
+      ],
+      "firstYear": 1988,
+      "lastYear": 1998
+    },
+    {
+      "id": "119835",
+      "name": "Petria Ann Thomas (-Jones)",
+      "noc": "AUS",
+      "region": "AUS",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 3,
+        "Silver": 4,
+        "Bronze": 1,
+        "Total": 8
+      },
+      "games": [
+        "1996 Summer",
+        "2000 Summer",
+        "2004 Summer"
+      ],
+      "firstYear": 1996,
+      "lastYear": 2004
+    },
+    {
+      "id": "62869",
+      "name": "Margit Korondi (Kronstein-, -Plachy, -Szalay)",
+      "noc": "HUN",
+      "region": "HUN",
+      "sports": [
+        "Gymnastics"
+      ],
+      "gamesCount": 2,
+      "medals": {
+        "Gold": 2,
+        "Silver": 2,
+        "Bronze": 4,
+        "Total": 8
+      },
+      "games": [
+        "1952 Summer",
+        "1956 Summer"
+      ],
+      "firstYear": 1952,
+      "lastYear": 1956
+    },
+    {
+      "id": "83448",
+      "name": "Sofiya Ivanovna Muratova (Poduzdova-)",
+      "noc": "URS",
+      "region": "URS",
+      "sports": [
+        "Gymnastics"
+      ],
+      "gamesCount": 2,
+      "medals": {
+        "Gold": 2,
+        "Silver": 2,
+        "Bronze": 4,
+        "Total": 8
+      },
+      "games": [
+        "1956 Summer",
+        "1960 Summer"
+      ],
+      "firstYear": 1956,
+      "lastYear": 1960
+    },
+    {
+      "id": "89117",
+      "name": "Susan Susie O'Neill",
+      "noc": "AUS",
+      "region": "AUS",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 2,
+        "Silver": 4,
+        "Bronze": 2,
+        "Total": 8
+      },
+      "games": [
+        "1992 Summer",
+        "1996 Summer",
+        "2000 Summer"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2000
+    },
+    {
+      "id": "31565",
+      "name": "Krisztina Egerszegi",
+      "noc": "HUN",
+      "region": "HUN",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 5,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total": 7
+      },
+      "games": [
+        "1988 Summer",
+        "1992 Summer",
+        "1996 Summer"
+      ],
+      "firstYear": 1988,
+      "lastYear": 1996
+    },
+    {
+      "id": "67447",
+      "name": "Larisa Yevgenyevna Lazutina (Ptitsyna-)",
+      "noc": "EUN",
+      "region": "EUN",
+      "sports": [
+        "Cross Country Skiing"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 5,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total": 7
+      },
+      "games": [
+        "1992 Winter",
+        "1994 Winter",
+        "1998 Winter",
+        "2002 Winter"
+      ],
+      "firstYear": 1992,
+      "lastYear": 2002
+    },
+    {
+      "id": "127216",
+      "name": "Dana Whitney Vollmer (-Grant)",
+      "noc": "USA",
+      "region": "USA",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 5,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total": 7
+      },
+      "games": [
+        "2004 Summer",
+        "2012 Summer",
+        "2016 Summer"
+      ],
+      "firstYear": 2004,
+      "lastYear": 2016
+    },
+    {
+      "id": "131805",
+      "name": "Wu Minxia",
+      "noc": "CHN",
+      "region": "CHN",
+      "sports": [
+        "Diving"
+      ],
+      "gamesCount": 4,
+      "medals": {
+        "Gold": 5,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total": 7
+      },
+      "games": [
+        "2004 Summer",
+        "2008 Summer",
+        "2012 Summer",
+        "2016 Summer"
+      ],
+      "firstYear": 2004,
+      "lastYear": 2016
+    },
+    {
+      "id": "68741",
+      "name": "Lisbeth Constance Libby Lenton-Trickett",
+      "noc": "AUS",
+      "region": "AUS",
+      "sports": [
+        "Swimming"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 4,
+        "Silver": 1,
+        "Bronze": 2,
+        "Total": 7
+      },
+      "games": [
+        "2004 Summer",
+        "2008 Summer",
+        "2012 Summer"
+      ],
+      "firstYear": 2004,
+      "lastYear": 2012
+    },
+    {
+      "id": "3281",
+      "name": "Simona Amnar (-Tabr)",
+      "noc": "ROU",
+      "region": "ROU",
+      "sports": [
+        "Gymnastics"
+      ],
+      "gamesCount": 2,
+      "medals": {
+        "Gold": 3,
+        "Silver": 1,
+        "Bronze": 3,
+        "Total": 7
+      },
+      "games": [
+        "1996 Summer",
+        "2000 Summer"
+      ],
+      "firstYear": 1996,
+      "lastYear": 2000
+    },
+    {
+      "id": "3880",
+      "name": "Agneta Monica Andersson",
+      "noc": "SWE",
+      "region": "SWE",
+      "sports": [
+        "Canoeing"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 3,
+        "Silver": 2,
+        "Bronze": 2,
+        "Total": 7
+      },
+      "games": [
+        "1980 Summer",
+        "1984 Summer",
+        "1988 Summer",
+        "1992 Summer",
+        "1996 Summer"
+      ],
+      "firstYear": 1980,
+      "lastYear": 1996
+    },
+    {
+      "id": "60783",
+      "name": "Marja-Liisa Kirvesniemi-Hmlinen",
+      "noc": "FIN",
+      "region": "FIN",
+      "sports": [
+        "Cross Country Skiing"
+      ],
+      "gamesCount": 6,
+      "medals": {
+        "Gold": 3,
+        "Silver": 0,
+        "Bronze": 4,
+        "Total": 7
+      },
+      "games": [
+        "1976 Winter",
+        "1980 Winter",
+        "1984 Winter",
+        "1988 Winter",
+        "1992 Winter",
+        "1994 Winter"
+      ],
+      "firstYear": 1976,
+      "lastYear": 1994
+    },
+    {
+      "id": "115768",
+      "name": "Shirley Barbara Strickland de la Hunty",
+      "noc": "AUS",
+      "region": "AUS",
+      "sports": [
+        "Athletics"
+      ],
+      "gamesCount": 3,
+      "medals": {
+        "Gold": 3,
+        "Silver": 1,
+        "Bronze": 3,
+        "Total": 7
+      },
+      "games": [
+        "1948 Summer",
+        "1952 Summer",
+        "1956 Summer"
+      ],
+      "firstYear": 1948,
+      "lastYear": 1956
+    },
+    {
+      "id": "117509",
+      "name": "Irena Szewiska-Kirszenstein",
+      "noc": "POL",
+      "region": "POL",
+      "sports": [
+        "Athletics"
+      ],
+      "gamesCount": 5,
+      "medals": {
+        "Gold": 3,
+        "Silver": 2,
+        "Bronze": 2,
+        "Total": 7
+      },
+      "games": [
+        "1964 Summer",
+        "1968 Summer",
+        "1972 Summer",
+        "1976 Summer",
+        "1980 Summer"
+      ],
+      "firstYear": 1964,
+      "lastYear": 1980
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+/* ==========================================================================
+   TIMELINE SECTION STYLES
+   ========================================================================== */
+
+.timeline-controls {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.toggle-btn {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--glass-border);
+  color: var(--text-muted);
+  padding: 0.6rem 1.4rem;
+  border-radius: 50px;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: var(--transition-fast);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.toggle-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-main);
+}
+
+.toggle-btn.active {
+  background: linear-gradient(135deg, var(--magenta), var(--primary-purple));
+  color: white;
+  border-color: transparent;
+  box-shadow: var(--magenta-glow);
+}
+
+.chart-container-wrapper {
+  padding: 2rem;
+  margin-bottom: 3rem;
+  min-height: 420px;
+}
+
+.chart-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.chart-title {
+  font-family: var(--font-heading);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+/* Timeline Milestones Carousel / Stepper */
+.milestones-stepper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.milestone-card {
+  padding: 1.5rem;
+  border-radius: 14px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid var(--glass-border);
+  transition: var(--transition-normal);
+  cursor: pointer;
+  position: relative;
+}
+
+.milestone-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(236, 72, 153, 0.4);
+  box-shadow: 0 8px 25px rgba(236, 72, 153, 0.2);
+}
+
+.milestone-card.active {
+  border-color: var(--magenta);
+  background: rgba(236, 72, 153, 0.1);
+  box-shadow: var(--magenta-glow);
+}
+
+.milestone-year {
+  display: inline-block;
+  font-family: var(--font-heading);
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: var(--magenta);
+  margin-bottom: 0.5rem;
+}
+
+.milestone-card-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-main);
+  margin-bottom: 0.5rem;
+}
+
+.milestone-desc {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.milestone-icon {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  color: var(--gold);
+  font-size: 1.25rem;
+}
