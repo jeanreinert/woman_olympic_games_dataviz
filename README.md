@@ -1,5 +1,7 @@
 # Women's Olympic Revolution - Data Storytelling
 
+See https://jeanreinert.github.io/woman_olympic_games_dataviz/
+
 ## Overview
 This project is an interactive data visualization and storytelling web application that explores the evolution and impact of female participation in the Olympic Games from 1896 to 2016. It highlights how women overcame early prohibitions, broke records, and transformed the performance of nations on the world's biggest sporting stage.
 
